@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Coder-Aftab
-- 👀 I’m interested in Web Dev and Competitive Coding
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate please submit form on my portfolio shakha.tech
-- 📫 How to reach me ...
+👋 Hi there
+**My name is Md Aftab**
+- 🌱 I’m currently learning MERN Stack
+- 👀 My Core Skills: Javascript,React,Redux
+-    My Highest Qualification: Diploma in Computer Engineering and currently Pursuing B.tech from MSIT,Delhi.
+- 📫 How to reach me portfolio at shakha.tech
 
 
